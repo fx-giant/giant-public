@@ -249,7 +249,6 @@ GIANT default menu ordering
 |My Dashboard(s) |10000 |
 |Library |20000 |
 |Connect to Source(s) |30000 |
-|Visual Editor |40000 |
 |My Form(s) |60000 |
 |Manage System |80000 |
 |Manage Security |90000 |
