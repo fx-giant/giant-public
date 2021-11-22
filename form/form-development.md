@@ -43,7 +43,7 @@ form
 ```
 2. ```config.json```
 
-We will put the configuration of the form pack. Detailed explanation of the configuration can be taken from [configuring GIANT form](https://github.com/fx-giant/giant-public/blob/main/form/configuring-giant-form.md)
+We will put the configuration of the form pack. Detailed explanation of the configuration can be taken from [configuring GIANT form](https://github.com/fx-giant/giant-public/blob/main/form/configuring-giant-form-pack.md)
 ``` json
 {
   "forms": [{
