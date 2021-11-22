@@ -41,7 +41,7 @@ This use case illustrates the total sales and total target sales for each softwa
 
 ### Monthly Aircraft Fuel Consumption
 
-Download sample data [here](./sample-data/categorical-cylinder-gauge/categorical-cylinder-gauge-sample-data-monthly-fuel.csv).
+Download sample data [here](./sample-data/categorical-cylinder-gauge/categorical-cylinder-gauge-sample-data-monthly-fuel.xlsx).
 
 This use case involves the comparison of the monthly fuel consumption of a new aircraft that an airline company had just purchased. The fuel consumption correlates directly with the total time spent on travelling. This means that low overall fuel consumption indicates that the utilization of the aircraft is low. From the historical data, there were only two out of 12 months that the overall fuel consumption was above 80%. From this, it can be concluded that the newly-purchased aircraft usage is low and some actions need to be taken to increase the aircraft's usage to maximize the company's profit.
 
