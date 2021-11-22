@@ -28,7 +28,7 @@ Requirement:
 - Flask (python package installed)
 
 Steps:
-1.  get source code from [here](https://github.com/fx-giant/giant-public/blob/main/form/sample/service-docker/service.py). 
+1.  get source code from [here](https://github.com/fx-giant/giant-public/blob/main/form/sample/backend-service/service.py). 
 2.  execute ```python service.py```.
 3.  get the [sample.zip](https://github.com/fx-giant/giant-public/blob/main/form/sample/sample.zip)
 4.  open the zip file
