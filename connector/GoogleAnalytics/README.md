@@ -12,7 +12,7 @@ This documentation provides guidance to obtain Google Analytics Account ID, and 
 ## Obtain Google Analytics Account ID 
 1. Login to Google Analytics Platform. 
 2. Expand the **Accounts** breakdown on the top left panel. 
-3. Navigate to your preferred Account and obtain the **Account ID** under **Analytics Accounts** tab.
+3. Navigate to your preferred Account and obtain the **Account ID** under **Analytics Accounts** tab.![google-analytics-accounts](images/google-analytics-accounts.jpeg)
 
 # 2. Preparation for Google Analytics OAuth Credential
 ## Create Google Credential - OAuth Client ID
@@ -33,8 +33,10 @@ This documentation provides guidance to obtain Google Analytics Account ID, and 
 4. Check the **Use your own OAuth credentials**. 
 5. Enter the **OAuth Client ID** & **OAuth Client Secret**.
 ![oauth-configuration](images/playground-oauth-configuration.png)
-6. Under **Step 1 Select & authorize APIs**, find **Analytics Reporting API v4**. Tick the following. ![oauth-step1](images/playground-authorize-api-new.png)
-7. Navigate to **Google Analytics API v3**. Tick the following. ![oauth-step1](images/playground-authorize-api-2-new.png)
+6. Under **Step 1 Select & authorize APIs**, find **Analytics Reporting API v4**. Tick the following. 
+![oauth-step1](images/playground-authorize-api-new.png)
+7. Navigate to **Google Analytics API v3**. Tick the following. 
+![oauth-step1](images/playground-authorize-api-2-new.png)
 8. Click the **Authorize APIs** button to proceed. It will redirect to authorization page, continue to allow the Google Analytics permission for GIANT. Once complete, you will be redirect back to the **OAuth 2.0 Playground** page.
 9. Notice the page will show you Step 2 with **Authorization code** available. Click the **Exchange authorization code for tokens** button. 
 10. **Refresh token** and **Access token** are ready. 
