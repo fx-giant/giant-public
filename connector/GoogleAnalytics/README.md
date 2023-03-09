@@ -35,19 +35,19 @@ This documentation provides guidance to obtain Google Analytics Account ID, and 
 ![oauth-configuration](images/playground-oauth-configuration.png)
 6. Under **Step 1 Select & authorize APIs**, find **Analytics Reporting API v4**. Tick the following. 
 ![oauth-step1](images/playground-authorize-api-new.png)
-7. Navigate to **Google Analytics API v3**. Tick the following. 
+7. Navigate to **Google Analytics API v3**. Tick the following.             
 ![oauth-step1](images/playground-authorize-api-2-new.png)
 8. Click the **Authorize APIs** button to proceed. It will redirect to authorization page, continue to allow the Google Analytics permission for GIANT. Once complete, you will be redirect back to the **OAuth 2.0 Playground** page.
 9. Notice the page will show you Step 2 with **Authorization code** available. Click the **Exchange authorization code for tokens** button. 
-10. **Refresh token** and **Access token** are ready. 
+10. **Refresh token** and **Access token** are ready.                
 ![exchange-token](images/playground-exchange-tokens.png)
 
 # 3. Enable Google Analytics API and Google Analytics Reporting API
 1. Go to [**Google Cloud Platform APIs & Services Page**](https://console.cloud.google.com/apis/dashboard).
-2. Click **ENABLE APIS AND SERVICES** button at the top left. ![enable apis](images/enable-ga-apis.PNG)
-3. You will be redirected to Google API Library page. Search **Google Analytics** in the search bar and these API options will be displayed on your page. ![search apis](images/search-ga-apis.PNG)
-4. Click on **Google Analytics Reporting API** and click on the **ENABLE** button to enable the Analytics Reporting API. ![enable reporting](images/enable-reporting-api.PNG)
-5. Next, click on **Google Analytics API** and click on the **ENABLE** button to enable the Analytics API. ![enable analytics](images/enable-analytics-api.PNG)
+2. Click **ENABLE APIS AND SERVICES** button at the top left. ![enable apis](images/enable-ga-apis.png)
+3. You will be redirected to Google API Library page. Search **Google Analytics** in the search bar and these API options will be displayed on your page. ![search apis](images/search-ga-apis.png)
+4. Click on **Google Analytics Reporting API** and click on the **ENABLE** button to enable the Analytics Reporting API. ![enable reporting](images/enable-reporting-api.png)
+5. Next, click on **Google Analytics API** and click on the **ENABLE** button to enable the Analytics API. ![enable analytics](images/enable-analytics-api.png)
 6. You have successfully enabled the Google Analytics API needed to create and use Google Analytics connection source in GIANT. 
 
 # 4. Create Google Analytics connection source in GIANT
