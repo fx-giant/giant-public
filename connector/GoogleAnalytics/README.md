@@ -12,7 +12,7 @@ This documentation provides guidance to obtain Google Analytics Account ID, and 
 ## Obtain Google Analytics Account ID 
 1. Login to Google Analytics Platform. 
 2. Expand the **Accounts** breakdown on the top left panel. 
-3. Navigate to your preferred Account and obtain the **Account ID** under **Analytics Accounts** tab.![google-analytics-accounts](images/google-analytics-accounts.jpeg)
+3. Navigate to your preferred Account and obtain the **Account ID** under **Analytics Accounts** tab.
 
 # 2. Preparation for Google Analytics OAuth Credential
 ## Create Google Credential - OAuth Client ID
